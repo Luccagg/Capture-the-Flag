@@ -1,6 +1,7 @@
-# Fun
-.Solving an easy challenge on tryhackme.com
+# CTF
+.In computer security, Capture the Flag (CTF) is an exercise in which participants attempt to find text strings, called "flags", which are secretly hidden in purposefully vulnerable programs or websites.
 
+.Solving an easy challenge on tryhackme.com
 ![test1](images/1.png)
 ![test2](images/2.png)
 
